@@ -1,0 +1,44 @@
+body { color:lime;
+  
+  background-color: lightcyan;
+   }
+  
+ img {
+    float:left;
+
+    border-style: double;
+    
+    border-color: lime;
+    
+    border-width: thick;
+    
+    margin: 10px;
+    
+    
+   }
+
+ cite {
+   text-align: right;
+  
+   caption-side:right;
+   margin: 0px;
+   color: deepskyblue;
+  }
+
+ p    { 
+  margin: 0px;
+  }
+
+ a    {
+   color:deepskyblue;
+  }
+
+ h4   {
+   
+  
+   text-align: center;
+   
+   text-decoration: underline;
+ }
+
+ 
